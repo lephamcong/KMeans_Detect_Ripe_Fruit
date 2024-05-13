@@ -13,6 +13,7 @@ Dự án này sử dụng thuật toán K-means và K-means++ để phân cụm 
 - `results/`: Thư mục chứa kết quả (ảnh đầu ra)
 - `Nhóm 02_Clustering.pdf`: File báo cáo
 - `requirements.txt`: File liệt kê các thư viện Python cần thiết
+- `Kmeans_detect_ripe_fruit.ipynb`: Tệp mã nguồn của dự án
 - `README.md`: Tệp này
 
 ## Cách sử dụng
