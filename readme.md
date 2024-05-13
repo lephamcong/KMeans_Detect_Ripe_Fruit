@@ -11,7 +11,7 @@ Dự án này sử dụng thuật toán K-means và K-means++ để phân cụm 
 - `image/`: Thư mục chứa dữ liệu ảnh đầu vào
 - `report/`: source báo cáo latex 
 - `results/`: Thư mục chứa kết quả (ảnh đầu ra)
-- `Report_Paper.pdf`: File báo cáo
+- `Nhóm 02_Clustering.pdf`: File báo cáo
 - `requirements.txt`: File liệt kê các thư viện Python cần thiết
 - `README.md`: Tệp này
 
